@@ -19,3 +19,5 @@ Europe is the largest region for co2 emission in 2020.
 Majority of CO2 emissions come from industries, interestedly coal has surpassed oil in resent day as a principal source of CO2
 This analysis proved GDP is closely linked to CO2 but not Population 
 While all countries will need to work together to overcome the climate change challenge, we can see that the great majority of emissions are concentrated to a relatively small group of countries based on their prevalent industries, mainly Oil and Coal.
+
+### Complete notbook project code can be found on the  main.ipynb file
